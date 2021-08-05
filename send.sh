@@ -1,6 +1,4 @@
-#!/bin/bash
-# Author: HACK3RY2J
-# Description: Send anonymous text messages
+: Send anonymous text messages
 
 # Colors
 
