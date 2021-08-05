@@ -6,7 +6,7 @@ echo -e "\e[1;34m"
 figlet -f slant Anon-SMS
 echo "Press Enter To Launch"
 read a1
-if [[ -s update.pandahackers ]];then
+if [[ -s update.0code-it ]];then
 echo "All Requirements Found...."
 else
 echo 'Installing Requirements....'
@@ -16,7 +16,8 @@ apt install figlet toilet python curl ruby -y
 apt install python3-pip
 gem install lolcat
 echo This Tool Is Created By code._it
-echo This Script Is Created By Mr. Digital  >update.pandahackers
+echo This Script Is Created By Mr. Digital  >update.0code-it
+
 echo Requirements Installed....
 echo Press Enter To Continue...
 read upd
@@ -67,7 +68,7 @@ cd Anon-SMS
 cp -r -f * .. > temp
 cd ..
 rm -rf  Anon-SMS >> temp
-rm update.pandahackers >> temp
+rm update.0code-it >> temp
 rm temp
 chmod +x Run.sh
 fi
@@ -92,7 +93,7 @@ echo "  Automatic Future Updates"
 echo "  Easy To Use And Embed in Code"
 echo""
 echo -e "\e[1;32m                   Contributors\e[1;33m"
-echo -e "\e[1;33m      [*]  Panda Hackers   \e[1;31m"
+echo -e "\e[1;33m      [*]  Mr. Digital   \e[1;31m"
 echo "         [-] Mail At: "
 echo -e "\e[1;33m      [*]  Instagram   \e[1;31m"
 echo "         [-] Ping At: "
@@ -127,7 +128,7 @@ toilet -f pagga -F border HACK3RY2J | lolcat
 echo -e "\e[1;34m For Any Queries Mail Us!!!\e[0m"
 echo -e "\e[1;32m        Mail: HACK3RY2J@gmail.com \e[0m"
 echo -e "\e[1;32m    Telegram: https://t.me/ItzAnonSMS \e[0m"
-echo -e "\e[4;32mYouTube Page: https://www.youtube.com/c/PandaHackers/ \e[0m"
+echo -e "\e[4;32mYouTube Page: https://www.youtube.com/c/ \e[0m"
 echo " "
 exit 0
 else
