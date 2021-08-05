@@ -30,9 +30,9 @@ function banner() {
      ██        ▒▒██                                    V1.4██▒▒        ██
      ██          ▒▒████████████████████████████████████████▒▒          ██
      ██            ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒            ██
-     ██     Coded by: https://github.com/HACK3RY2J                     ██
-     ██     Youtube : https://www.youtube.com/c/PandaHackers           ██
-     ██   Instagram : https://instagram.com/Panda_Hackers_Official     ██
+     ██                                                                ██
+     ██     Youtube : https://www.youtube.com/.                        ██
+     ██   Instagram : https://instagram.com/code._it                   ██
      ██                                                                ██
      ████████████████████████████████████████████████████████████████████
      ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ "
