@@ -1,7 +1,6 @@
-#!/usr/bin/env bash
 
 clear
-echo -e "\e[4;31m Panda Hackers !!! \e[0m"
+echo -e "\e[4;31m Mr. Digital !!! \e[0m"
 echo -e "\e[1;32m Presents \e[0m"
 echo -e "\e[1;34m"
 figlet -f slant Anon-SMS
@@ -16,8 +15,8 @@ echo .
 apt install figlet toilet python curl ruby -y
 apt install python3-pip
 gem install lolcat
-echo This Tool Is Created By HACK3RY2J
-echo This Script Is Created By Panda Hackers HACK3RY2J >update.pandahackers
+echo This Tool Is Created By code._it
+echo This Script Is Created By Mr. Digital  >update.pandahackers
 echo Requirements Installed....
 echo Press Enter To Continue...
 read upd
@@ -30,11 +29,9 @@ echo -e "\e[1;31m"
 figlet -f slant Anon-SMS | lolcat
 echo -e "\e[1;34m Created By \e[1;32m"  #blue color
 toilet -f mono12 -F border PH | lolcat
-echo -e "\e[4;34mThis Tool Is Created By Panda Hackers \e[0m" #underline+blue
+echo -e "\e[4;34mThis Tool Is Created By Mr. Digital \e[0m" #underline+blue
 echo -e "\e[1;34mFor Any Queries Mail Us!!!\e[0m"
-echo -e "\e[1;32m        Mail: Hack3ry2j@gmail.com \e[0m" #yellow
-echo -e "\e[4;32mYouTube Page: https://youtube.com/c/PandaHackers/ \e[0m" #green
-echo -e "\e[1;34m    Telegram: https://t.me/ItzAnonSMS \e[0m"
+
 echo " "
 echo -e "\e[4;31mRead Instruction Carefully !!! \e[0m" #red
 echo " "
@@ -64,7 +61,7 @@ apt install git -y
 echo -e "\e[1;34m Requesting Update From Source..."
 echo -e "\e[1;34m Request Attempt Successful.."
 echo -e "\e[1;34m Updating Now..."
-git clone https://github.com/HACK3RY2J/Anon-SMS.git
+git clone https://github.com/0code-it/Anon-SMS.git
 if [[ -s Anon-SMS/Run.sh ]];then
 cd Anon-SMS
 cp -r -f * .. > temp
@@ -96,15 +93,15 @@ echo "  Easy To Use And Embed in Code"
 echo""
 echo -e "\e[1;32m                   Contributors\e[1;33m"
 echo -e "\e[1;33m      [*]  Panda Hackers   \e[1;31m"
-echo "         [-] Mail At: pandahacker127@gmail.com"
+echo "         [-] Mail At: "
 echo -e "\e[1;33m      [*]  Instagram   \e[1;31m"
-echo "         [-] Ping At: http://Instagram.com/"
+echo "         [-] Ping At: "
 echo -e "\e[1;33m      [*]  Telegram   \e[1;31m"
-echo "         [-] Ping At: https://t.me/ItzAnonSMS/"
-echo -e "\e[1;33m      [*]  HACK3RY2J   \e[1;31m"
-echo "         [-] Mail At: HACK3RY2J@gmail.com"
+echo "         [-] Ping At: "
+echo -e "\e[1;33m      [*]     \e[1;31m"
+echo "         [-] Mail At: "
 echo -e "\e[1;33m      [*]  HAOI      \e[1;31m"
-echo "         [-] Ping At: http://Instagram.com/haoi_hackers_Academy_of_India/"
+echo "         [-] Ping At: http://Instagram.com/code._it/"
 echo ""
 echo ""
 echo -e "\e[1;31m This is Only For Educational Purposes or To Prank.\e[0m"
@@ -115,9 +112,9 @@ echo -e "\e[1;32m Update If Doesn't Work.\e[0m"
 echo  " "
 echo -e "\e[4;31m That's All !!!\e[0m"
 echo -e "\e[1;34m For Any Queries Mail Us!!!\e[0m"
-echo -e "\e[1;32m        Mail: HACK3RY2J@gmail.com \e[0m"
-echo -e "\e[1;32m   Instagram: https://Instagram.com/ \e[0m"
-echo -e "\e[4;32mYouTube Page: https://www.youtube.com/c/PandaHackers \e[0m"
+echo -e "\e[1;32m        Mail:  \e[0m"
+echo -e "\e[1;32m   Instagram:  \e[0m"
+echo -e "\e[4;32mYouTube Page:  \e[0m"
 echo "Press Enter To Return To Main Menu"
 read a3
 clear
